@@ -25,5 +25,5 @@ Last Updated: Saturday, September 25th, 2021, 5:38:12 PM
 ![SQL](https://img.shields.io/badge/MySQL-15130A?style=for-the-badge&logo=mysql&logoColor=DB0F0F)
 ![Git](https://img.shields.io/badge/Git-15130A?style=for-the-badge&logo=git&logoColor=ED7373)
 
-### Follow Me
+### Contacts
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-15130A?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/zenslash)
