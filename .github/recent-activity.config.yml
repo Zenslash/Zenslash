@@ -1,0 +1,3 @@
+settings:
+  disabled_events: [fork, star, member]
+  whitelisted_events: [comments, issues, pr, release, review, wiki]
