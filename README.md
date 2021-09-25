@@ -5,8 +5,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. 📔 Created new repository [Zenslash/Zenslash](https://github.com/Zenslash/Zenslash)
+2. 🔱 Forked [Zenslash/goap](https://github.com/Zenslash/goap) from [sploreg/goap](https://github.com/sploreg/goap)
+3. 🔱 Forked [Zenslash/ASM-Crackmes-exe](https://github.com/Zenslash/ASM-Crackmes-exe) from [readysloth-Education-projects/ASM-Crackmes-exe](https://github.com/readysloth-Education-projects/ASM-Crackmes-exe)
+4. ⭐ Starred [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
+5. ⭐ Starred [Zelyder/ToDoApp](https://github.com/Zelyder/ToDoApp)
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Saturday, September 25th, 2021, 5:22:22 PM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ---
 
