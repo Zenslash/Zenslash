@@ -1,6 +1,6 @@
 ### Github Stats
-[![Zenslash GitHub stats](https://github-readme-stats.vercel.app/api?username=zenslash&theme=tokyonight&count_private=false&show_icons=true)](https://github.com/zenslash/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenslash&theme=tokyonight&hide=html,css,cmake,javascript)](https://github.com/zenslash/github-readme-stats)
+[![Zenslash GitHub stats](https://github-readme-stats.vercel.app/api?username=zenslash&theme=tokyonight&count_private=false&show_icons=true)](https://github.com/zenslash)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenslash&theme=tokyonight&hide=html,css,cmake,javascript)](https://github.com/zenslash)
 
 ### :zap: Recent Activity
 
