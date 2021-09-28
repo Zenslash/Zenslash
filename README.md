@@ -5,15 +5,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#7303](https://github.com/azerothcore/azerothcore-wotlk/pull/7303#issuecomment-898052621) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 💬 Commented on [#7304](https://github.com/azerothcore/azerothcore-wotlk/pull/7304#issuecomment-897475663) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 💪 Opened PR [#7304](https://github.com/azerothcore/azerothcore-wotlk/pull/7304) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 💪 Opened PR [#7303](https://github.com/azerothcore/azerothcore-wotlk/pull/7303) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 💪 Opened PR [#7260](https://github.com/azerothcore/azerothcore-wotlk/pull/7260) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 💪 Opened PR [#1](https://github.com/mmerloy/Java-lab2/pull/1) in [mmerloy/Java-lab2](https://github.com/mmerloy/Java-lab2)
+2. 💬 Commented on [#7303](https://github.com/azerothcore/azerothcore-wotlk/pull/7303#issuecomment-898052621) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 💬 Commented on [#7304](https://github.com/azerothcore/azerothcore-wotlk/pull/7304#issuecomment-897475663) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 💪 Opened PR [#7304](https://github.com/azerothcore/azerothcore-wotlk/pull/7304) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 💪 Opened PR [#7303](https://github.com/azerothcore/azerothcore-wotlk/pull/7303) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 28th, 2021, 1:36:36 PM
+Last Updated: Tuesday, September 28th, 2021, 2:07:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
