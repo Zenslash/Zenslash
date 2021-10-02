@@ -5,15 +5,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](https://github.com/mmerloy/Java-lab2/pull/2) in [mmerloy/Java-lab2](https://github.com/mmerloy/Java-lab2)
-2. 💪 Opened PR [#1](https://github.com/mmerloy/Java-lab2/pull/1) in [mmerloy/Java-lab2](https://github.com/mmerloy/Java-lab2)
-3. 💬 Commented on [#7303](https://github.com/azerothcore/azerothcore-wotlk/pull/7303#issuecomment-898052621) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 💬 Commented on [#7304](https://github.com/azerothcore/azerothcore-wotlk/pull/7304#issuecomment-897475663) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 💪 Opened PR [#7304](https://github.com/azerothcore/azerothcore-wotlk/pull/7304) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 👍 Approved [#48](https://github.com/Zenslash/Game/pull/48#pullrequestreview-769503650) in [Zenslash/Game](https://github.com/Zenslash/Game)
+2. 💪 Opened PR [#2](https://github.com/mmerloy/Java-lab2/pull/2) in [mmerloy/Java-lab2](https://github.com/mmerloy/Java-lab2)
+3. 💪 Opened PR [#1](https://github.com/mmerloy/Java-lab2/pull/1) in [mmerloy/Java-lab2](https://github.com/mmerloy/Java-lab2)
+4. 💬 Commented on [#7303](https://github.com/azerothcore/azerothcore-wotlk/pull/7303#issuecomment-898052621) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 💬 Commented on [#7304](https://github.com/azerothcore/azerothcore-wotlk/pull/7304#issuecomment-897475663) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 2nd, 2021, 3:07:43 PM
+Last Updated: Saturday, October 2nd, 2021, 3:37:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
