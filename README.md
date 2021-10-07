@@ -5,15 +5,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#48](https://github.com/Zenslash/Game/pull/48) in [Zenslash/Game](https://github.com/Zenslash/Game)
-2. 👍 Approved [#48](https://github.com/Zenslash/Game/pull/48#pullrequestreview-769503650) in [Zenslash/Game](https://github.com/Zenslash/Game)
-3. 💪 Opened PR [#2](https://github.com/mmerloy/Java-lab2/pull/2) in [mmerloy/Java-lab2](https://github.com/mmerloy/Java-lab2)
-4. 💪 Opened PR [#1](https://github.com/mmerloy/Java-lab2/pull/1) in [mmerloy/Java-lab2](https://github.com/mmerloy/Java-lab2)
-5. 💬 Commented on [#7303](https://github.com/azerothcore/azerothcore-wotlk/pull/7303#issuecomment-898052621) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. ❗️ Opened issue [#50](https://github.com/Zenslash/Game/issues/50) in [Zenslash/Game](https://github.com/Zenslash/Game)
+2. ✔️ Closed issue [#19](https://github.com/Zenslash/Game/issues/19) in [Zenslash/Game](https://github.com/Zenslash/Game)
+3. 🎉 Merged PR [#48](https://github.com/Zenslash/Game/pull/48) in [Zenslash/Game](https://github.com/Zenslash/Game)
+4. 👍 Approved [#48](https://github.com/Zenslash/Game/pull/48#pullrequestreview-769503650) in [Zenslash/Game](https://github.com/Zenslash/Game)
+5. 💪 Opened PR [#2](https://github.com/mmerloy/Java-lab2/pull/2) in [mmerloy/Java-lab2](https://github.com/mmerloy/Java-lab2)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 7th, 2021, 9:34:43 AM
+Last Updated: Thursday, October 7th, 2021, 10:08:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
