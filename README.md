@@ -5,15 +5,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#52](https://github.com/Zenslash/Game/pull/52) in [Zenslash/Game](https://github.com/Zenslash/Game)
-2. 👍 Approved [#52](https://github.com/Zenslash/Game/pull/52#pullrequestreview-775594913) in [Zenslash/Game](https://github.com/Zenslash/Game)
-3. 👍 Approved [#51](https://github.com/Zenslash/Game/pull/51#pullrequestreview-774911567) in [Zenslash/Game](https://github.com/Zenslash/Game)
-4. ❗️ Opened issue [#50](https://github.com/Zenslash/Game/issues/50) in [Zenslash/Game](https://github.com/Zenslash/Game)
-5. ✔️ Closed issue [#19](https://github.com/Zenslash/Game/issues/19) in [Zenslash/Game](https://github.com/Zenslash/Game)
+1. ❗️ Opened issue [#53](https://github.com/Zenslash/Game/issues/53) in [Zenslash/Game](https://github.com/Zenslash/Game)
+2. ✔️ Closed issue [#50](https://github.com/Zenslash/Game/issues/50) in [Zenslash/Game](https://github.com/Zenslash/Game)
+3. 🎉 Merged PR [#52](https://github.com/Zenslash/Game/pull/52) in [Zenslash/Game](https://github.com/Zenslash/Game)
+4. 👍 Approved [#52](https://github.com/Zenslash/Game/pull/52#pullrequestreview-775594913) in [Zenslash/Game](https://github.com/Zenslash/Game)
+5. 👍 Approved [#51](https://github.com/Zenslash/Game/pull/51#pullrequestreview-774911567) in [Zenslash/Game](https://github.com/Zenslash/Game)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 11th, 2021, 8:35:10 PM
+Last Updated: Monday, October 11th, 2021, 9:07:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
