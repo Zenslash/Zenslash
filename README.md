@@ -5,15 +5,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#57](https://github.com/Zenslash/Sidescroller/pull/57) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
-2. ❗️ Opened issue [#58](https://github.com/Zenslash/Game/issues/58) in [Zenslash/Game](https://github.com/Zenslash/Game)
-3. 👍 Approved [#57](https://github.com/Zenslash/Game/pull/57#pullrequestreview-796260951) in [Zenslash/Game](https://github.com/Zenslash/Game)
-4. ❗️ Opened issue [#56](https://github.com/Zenslash/Game/issues/56) in [Zenslash/Game](https://github.com/Zenslash/Game)
-5. ❗️ Opened issue [#55](https://github.com/Zenslash/Game/issues/55) in [Zenslash/Game](https://github.com/Zenslash/Game)
+1. ✔️ Closed issue [#8](https://github.com/Zenslash/Sidescroller/issues/8) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
+2. ✔️ Closed issue [#30](https://github.com/Zenslash/Sidescroller/issues/30) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
+3. ✔️ Closed issue [#33](https://github.com/Zenslash/Sidescroller/issues/33) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
+4. ✔️ Closed issue [#49](https://github.com/Zenslash/Sidescroller/issues/49) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
+5. ✔️ Closed issue [#53](https://github.com/Zenslash/Sidescroller/issues/53) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 21st, 2021, 2:07:23 PM
+Last Updated: Sunday, November 21st, 2021, 2:33:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
