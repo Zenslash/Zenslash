@@ -5,15 +5,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#8](https://github.com/Zenslash/Sidescroller/issues/8) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
-2. ✔️ Closed issue [#30](https://github.com/Zenslash/Sidescroller/issues/30) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
-3. ✔️ Closed issue [#33](https://github.com/Zenslash/Sidescroller/issues/33) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
-4. ✔️ Closed issue [#49](https://github.com/Zenslash/Sidescroller/issues/49) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
-5. ✔️ Closed issue [#53](https://github.com/Zenslash/Sidescroller/issues/53) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
+1. 💪 Opened PR [#59](https://github.com/Zenslash/Sidescroller/pull/59) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
+2. ✔️ Closed issue [#8](https://github.com/Zenslash/Sidescroller/issues/8) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
+3. ✔️ Closed issue [#30](https://github.com/Zenslash/Sidescroller/issues/30) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
+4. ✔️ Closed issue [#33](https://github.com/Zenslash/Sidescroller/issues/33) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
+5. ✔️ Closed issue [#49](https://github.com/Zenslash/Sidescroller/issues/49) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 21st, 2021, 2:33:35 PM
+Last Updated: Sunday, November 21st, 2021, 3:08:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
