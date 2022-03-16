@@ -5,15 +5,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#59](https://github.com/Zenslash/Sidescroller/pull/59) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
-2. ✔️ Closed issue [#8](https://github.com/Zenslash/Sidescroller/issues/8) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
-3. ✔️ Closed issue [#30](https://github.com/Zenslash/Sidescroller/issues/30) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
+1. 💪 Opened PR [#2](https://github.com/Zenslash/PHP_Labs/pull/2) in [Zenslash/PHP_Labs](https://github.com/Zenslash/PHP_Labs)
+2. ❌ Closed PR [#1](https://github.com/Zenslash/PHP_Labs/pull/1) in [Zenslash/PHP_Labs](https://github.com/Zenslash/PHP_Labs)
+3. 💪 Opened PR [#1](https://github.com/Zenslash/PHP_Labs/pull/1) in [Zenslash/PHP_Labs](https://github.com/Zenslash/PHP_Labs)
 4. ✔️ Closed issue [#33](https://github.com/Zenslash/Sidescroller/issues/33) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
 5. ✔️ Closed issue [#49](https://github.com/Zenslash/Sidescroller/issues/49) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 16th, 2022, 3:38:49 PM
+Last Updated: Wednesday, March 16th, 2022, 4:12:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
