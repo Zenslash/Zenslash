@@ -21,7 +21,6 @@ Last Updated: Thursday, June 9th, 2022, 1:49:35 PM
 ### Languages and Tools
 ![C++](https://img.shields.io/badge/-C++-15130A?style=for-the-badge&logo=c&logoColor=458EC6)
 ![C#](https://img.shields.io/badge/C%23-15130A?style=for-the-badge&logo=c-sharp&logoColor=50D941)
-![Unreal Engine](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-15130A?style=for-the-badge&logo=unity&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-15130A?style=for-the-badge&logo=mysql&logoColor=DB0F0F)
 ![Git](https://img.shields.io/badge/Git-15130A?style=for-the-badge&logo=git&logoColor=ED7373)
