@@ -5,7 +5,7 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/Zenslash/PHP_Lab2-new-/pull/1) in [Zenslash/PHP_Lab2-new-](https://github.com/Zenslash/PHP_Lab2-new-)
+1. 💪 Opened PR [#12917](https://github.com/azerothcore/azerothcore-wotlk/pull/12917) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 2. 💪 Opened PR [#2](https://github.com/Zenslash/PHP_Labs/pull/2) in [Zenslash/PHP_Labs](https://github.com/Zenslash/PHP_Labs)
 3. ❌ Closed PR [#1](https://github.com/Zenslash/PHP_Labs/pull/1) in [Zenslash/PHP_Labs](https://github.com/Zenslash/PHP_Labs)
 4. 💪 Opened PR [#1](https://github.com/Zenslash/PHP_Labs/pull/1) in [Zenslash/PHP_Labs](https://github.com/Zenslash/PHP_Labs)
@@ -13,7 +13,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 31st, 2022, 5:16:37 PM
+Last Updated: Wednesday, August 31st, 2022, 5:40:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
