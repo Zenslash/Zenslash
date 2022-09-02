@@ -5,15 +5,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#12917](https://github.com/azerothcore/azerothcore-wotlk/pull/12917#issuecomment-1234043470) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 💬 Commented on [#12917](https://github.com/azerothcore/azerothcore-wotlk/pull/12917#issuecomment-1233260435) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 💬 Commented on [#12917](https://github.com/azerothcore/azerothcore-wotlk/pull/12917#issuecomment-1233235182) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 💪 Opened PR [#12917](https://github.com/azerothcore/azerothcore-wotlk/pull/12917) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. ✔️ Closed issue [#49](https://github.com/Zenslash/Sidescroller/issues/49) in [Zenslash/Sidescroller](https://github.com/Zenslash/Sidescroller)
+1. 💪 Opened PR [#12932](https://github.com/azerothcore/azerothcore-wotlk/pull/12932) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 💬 Commented on [#12917](https://github.com/azerothcore/azerothcore-wotlk/pull/12917#issuecomment-1234043470) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 💬 Commented on [#12917](https://github.com/azerothcore/azerothcore-wotlk/pull/12917#issuecomment-1233260435) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 💬 Commented on [#12917](https://github.com/azerothcore/azerothcore-wotlk/pull/12917#issuecomment-1233235182) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 💪 Opened PR [#12917](https://github.com/azerothcore/azerothcore-wotlk/pull/12917) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 2nd, 2022, 8:13:12 AM
+Last Updated: Friday, September 2nd, 2022, 8:44:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
